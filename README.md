@@ -306,4 +306,4 @@ The system includes comprehensive screenshots showing the complete user journey:
 
 ---
 
-*This system represents a modern approach to university convocation management, combining security, usability, and efficiency to create an exceptional experience for all stakeholders. If you are interested in this software feel free to contact me : https://www.linkedin.com/in/rayhan-hosen/*
+*This system represents a modern approach to university convocation management, combining security, usability, and efficiency to create an exceptional experience for all stakeholders. If you are interested in this software feel free to contact me : https://www.linkedin.com/in/rayhanhosen-refat/*
